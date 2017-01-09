@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ScreenTwo"></activity>
+        <activity android:name=".ScreenTwo" />
+        <activity android:name=".PriyaActivity"></activity>
     </application>
 
 </manifest>
