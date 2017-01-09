@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ScreenTwo" />
-        <activity android:name=".PriyaActivity"></activity>
+        <activity android:name=".PriyaActivity" />
+        <activity android:name=".SravaniActivity"></activity>
     </application>
 
 </manifest>
